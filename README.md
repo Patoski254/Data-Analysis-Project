@@ -34,14 +34,22 @@ from scipy import stats
 import statistics as stat
 from scipy.stats import f_oneway
 warnings.filterwarnings('ignore')
+
 # Data Visualization
 import matplotlib.pyplot as plt  # For basic data visualization
 import seaborn as sns
+And used Power Bi for my Visualization presentation.
  
 ## License
  
 MIT License. Check LICENSE.md for more information.
  
 ## Acknowledgements
- 
-Azubi Africa
+ I would like to express my sincere gratitude to the Azubi Africa Team for the unwavering support throughout this project. Their valuable insights, guidance, and encouragement significantly contributed to the success of this endeavor.
+
+I also extend my appreciation to my Oasis Team for their support and good coordination throught this project. Above all, their commitment to excellence and willingness to go the extra mile did not go unnoticed.
+
+In addition, I want to thank my family and friends for their unwavering support and understanding during the course of this project.
+
+This work wouldn't have been possible without the collective effort and collaboration of everyone involved. Thank you all for your contributions.
+
